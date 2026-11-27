@@ -96,6 +96,8 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ufaiz50&theme=synthwave" alt="Profile details" />
 
+<img src="https://raw.githubusercontent.com/ufaiz50/ufaiz50/output/github-snake.svg" alt="Snake eating contribution graph" width="100%" />
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
