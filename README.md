@@ -47,10 +47,26 @@ Halo, saya **Umar Faiz Ubaidillah** — software developer yang membangun aplika
 
 ## 🚀 Project Showcase
 
+### ⭐ Featured: E-Rapor
+
+<div align="center">
+
+<a href="https://raportk.my.id/">
+  <img src="assets/eraport.png" width="720" alt="E-Rapor - Rapor PAUD Kurikulum Merdeka" />
+</a>
+
+**Aplikasi rapor digital PAUD (Kurikulum Merdeka Fase Pondasi)** untuk mencatat observasi, penilaian, dan narasi perkembangan anak.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-raportk.my.id-065f46?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raportk.my.id/)
+[![Backend](https://img.shields.io/badge/Backend-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/ufaiz50/e-raport)
+[![Frontend](https://img.shields.io/badge/Frontend-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ufaiz50/e-raport-web)
+
+</div>
+
+### 📁 Project Lainnya
+
 | Project | Deskripsi | Stack |
 | --- | --- | --- |
-| [e-raport](https://github.com/ufaiz50/e-raport) | Backend sistem rapor digital | Go |
-| [e-raport-web](https://github.com/ufaiz50/e-raport-web) | Frontend sistem rapor digital | TypeScript |
 | [expres-sequelize-postgree](https://github.com/ufaiz50/expres-sequelize-postgree) | REST API dengan Express, Sequelize, PostgreSQL | TypeScript, Node.js |
 | [spring-dasar](https://github.com/ufaiz50/spring-dasar) | Latihan dasar Spring | Java |
 | [BasicApi](https://github.com/ufaiz50/BasicApi) | Web API dasar | C# / .NET |
