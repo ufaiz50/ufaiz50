@@ -51,13 +51,10 @@ Halo, saya **Umar Faiz Ubaidillah** — software developer yang membangun aplika
 
 <div align="center">
 
-<a href="https://raportk.my.id/">
-  <img src="assets/eraport.png" width="720" alt="E-Rapor - Rapor PAUD Kurikulum Merdeka" />
-</a>
+<img src="assets/eraport.png" width="720" alt="E-Rapor - Rapor PAUD Kurikulum Merdeka" />
 
 **Aplikasi rapor digital PAUD (Kurikulum Merdeka Fase Pondasi)** untuk mencatat observasi, penilaian, dan narasi perkembangan anak.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-raportk.my.id-065f46?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raportk.my.id/)
 [![Backend](https://img.shields.io/badge/Backend-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/ufaiz50/e-raport)
 [![Frontend](https://img.shields.io/badge/Frontend-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ufaiz50/e-raport-web)
 
